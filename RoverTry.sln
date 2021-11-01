@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverTry", "RoverTry\RoverTry.csproj", "{80C73E07-1A03-469B-A7D3-220E96602768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C73E07-1A03-469B-A7D3-220E96602768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C73E07-1A03-469B-A7D3-220E96602768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C73E07-1A03-469B-A7D3-220E96602768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C73E07-1A03-469B-A7D3-220E96602768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD721F60-1AF6-4F08-9721-35D1C56CA51C}
+	EndGlobalSection
+EndGlobal
